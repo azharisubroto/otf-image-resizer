@@ -6,7 +6,7 @@ Key Features:
 
 + resize on the fly
 + vercel-ready deployment
-+ the image files request won't be saved into disk. 
++ the image files request won't be saved into the disk. 
 
 ## Usage
 
