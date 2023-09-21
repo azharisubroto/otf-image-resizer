@@ -10,7 +10,7 @@ Key Features:
 
 ## Usage
 
-Upload the app to your server. And the host is located at https://cdn.yourdomain.app.
+Deploy the app to your server. Let's say the app is hosted at https://cdn.yourdomain.app.
 let's say you have an image with url: https://myblog.me/img/panda.png, note that you have to make sure you don't include the http protocol.
 
 
